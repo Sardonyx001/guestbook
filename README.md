@@ -1,6 +1,6 @@
 # simple guestbook webapp
 
-## features
+## features ?
 
 - [ ] guestbook comment input form:
   - name/username required
