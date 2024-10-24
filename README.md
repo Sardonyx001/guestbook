@@ -11,3 +11,5 @@
 - [ ] rate-limiting or ddos protection
   - hash ips and only allow 1 message a day per ip?
 - [ ] message formatting with markdown or something
+- [ ] ability to flag comments as inappropriate etc:
+  - use ml to detect this automatically?
