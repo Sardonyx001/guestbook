@@ -35,4 +35,4 @@ EXPOSE 3000
 
 
 # Command to run the binary
-CMD ["./starter-template"]
+CMD ["./guestbook"]
